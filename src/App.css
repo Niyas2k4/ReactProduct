@@ -1,0 +1,33 @@
+.displaybig{
+    width: 100%;
+    background-color: rgb(45, 40, 40) !important;
+    padding-left: 5%;
+    padding-right: 4%;
+    min-height: 230vh;
+    
+}
+.pdetails{
+    margin: auto;
+    /* width: 70%; */
+    height: 50vh;
+    /* background-color: aliceblue; */
+}
+.mycard{
+    min-height: 550px;
+    max-height: 600px;
+    margin-bottom: 20px;
+    
+}
+.pimg{
+    padding: 0;
+    width: 50%;
+    height: 60vh;
+    margin: auto;
+    margin-bottom: 5vh;
+}
+.myreview{
+    background-color: rgb(0, 0, 0);
+    line-height: 0.5rem;
+    padding: 2rem 2rem;
+    margin-bottom: 0.4rem !important;
+}
